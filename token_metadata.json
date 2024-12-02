@@ -1,0 +1,11 @@
+{
+  "name": "Drunk Santa Claus",
+  "symbol": "Drunks",
+  "description": "The official Drunk Santa Claus token, bringing holiday cheer with a twist.",
+  "image": "https://i.ibb.co/ts9Q4PH/drunks-logo.png",
+  "extensions": {
+    "website": "https://www.drunksantaclaus.com",
+    "twitter": "https://x.com/DrunkSanta_DSC",
+    "telegram": "https://t.me/drunksanta_dsc"
+  }
+}
